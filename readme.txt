@@ -3,3 +3,4 @@ Git is free software distributed under the GPL..
 Git has a mutable index called stage.
 Git tracks changes of life in the future.
 creating s new branch is quick.
+test git switch.
